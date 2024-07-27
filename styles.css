@@ -56,10 +56,10 @@ main {
 /* Section Styles */
 section {
     background: #fff; /* White background for sections */
-    border-radius: 8px; /* Rounded corners for a modern look */
+    border-radius: 12px; /* Rounded corners for a modern look */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    padding: 20px;
-    margin-bottom: 40px;
+    padding: 30px; /* Increased padding for a more spacious feel */
+    margin-bottom: 60px; /* Increased margin below each section */
 }
 
 h2 {
@@ -99,5 +99,5 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0;
-    margin-top: 40px; /* Ensure footer is at the bottom */
+    margin-top: 60px; /* Ensure footer is at the bottom */
 }
