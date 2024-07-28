@@ -106,9 +106,8 @@ a:hover {
 }
 
 iframe {
-    width: 50%;
-    height: 50%;
-    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
     border-radius: 5px; /* Optional: Rounded corners for the iframe */
 }
 
