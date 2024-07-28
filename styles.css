@@ -100,15 +100,15 @@ a:hover {
     justify-content: center;
     align-items: center;
     margin: 20px 0; /* Optional: Adjust the top and bottom margins as needed */
-    width: 50%;
-/*     max-width: 800px; */
-    min-height: 400px;
+
 }
 
 iframe {
-    width: 100%;
+    width: 60%; /* Adjust this percentage as needed for desired width */
+    max-width: 800px; /* Maximum width */
     height: auto;
-    border-radius: 5px; /* Optional: Rounded corners for the iframe */
+    min-height: 400px; /* Minimum height */
+    border-radius: 5px; /* Rounded corners for the iframe */
 }
 
 
